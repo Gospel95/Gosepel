@@ -1,0 +1,4 @@
+# DjangoMultiDataSoure
+everything
+此项目使用了SQlite、Mysql、Mongo多种类型的数据库
+此项目集成了Websockte和基于celery的异步与定时任务
